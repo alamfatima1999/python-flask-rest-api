@@ -14,5 +14,9 @@ You can install the required dependencies using pip:
 
 ```bash
 pip install Flask Flask-MySQLdb
+```
 
+## Code Setup
+
+1. Clone the repository:
 
