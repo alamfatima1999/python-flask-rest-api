@@ -19,7 +19,7 @@ pip3 install Flask Flask-MySQLdb
 
 ## Code Setup
 
-- Clone the repository: ```git clone https://github.com/your_username/flask-mysql-crud.git```
+- Clone the repository: ```git clone https://github.com/alamfatima1999/python-flask-rest-api```
 
 
 ## Configure MySQL settings:
@@ -32,7 +32,7 @@ pip3 install Flask Flask-MySQLdb
 Setup a Virtual Environment (Optional but Recommended):
 
     Virtual environments help isolate your Python project dependencies.
-    Install virtualenv if you haven't already: pip install virtualenv
+    Install virtualenv if you haven't already: pip3 install virtualenv
     Create a new virtual environment: virtualenv myenv
     Activate the virtual environment:
         On Windows: myenv\Scripts\activate
@@ -56,6 +56,13 @@ Run Your Flask Application:
 Access Your Flask App:
 
     Open a web browser and go to http://127.0.0.1:5000/ to see your Flask application running.
+
+
+## API INFO
+
+### 1. `GET /api/users`
+### 2. `GET /api/users/<int:user_id>`
+### 3. `POST /api/users`
 
 
    
