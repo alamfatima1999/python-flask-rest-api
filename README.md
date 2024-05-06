@@ -48,7 +48,7 @@ Write Your Flask Application:
 
 Run Your Flask Application:
 
-    Navigate to the directory containing your Flask application script (app.py).
+    Navigate to the directory containing your Flask application script (server.py).
     Run your Flask application script using Python: python app.py
     You should see output indicating that the Flask development server is running, typically on http://127.0.0.1:5000/.
 
