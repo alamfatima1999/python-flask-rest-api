@@ -40,12 +40,11 @@ Setup a Virtual Environment (Optional but Recommended):
 
 Install Flask:
 
-    Once your virtual environment is activated, install Flask using pip: pip install Flask
+    Once your virtual environment is activated, install Flask using pip: pip3 install Flask
 
 Write Your Flask Application:
 
-    Create a new Python file (e.g., app.py) and write your Flask application code in it.
-    See the previous example for creating a simple Flask application.
+    Create a new Python file (e.g., server.py) and write your Flask application code in it. 
 
 Run Your Flask Application:
 
